@@ -1,0 +1,18 @@
+body{background-color: coral}
+p{
+    color: green;
+}
+h1{
+    color: aqua;
+}
+#v1{
+    text-align:center;
+    background-color: black;
+    padding: 20px;
+    /*align-content: center;*/
+}
+h3{
+    color: darkmagenta;
+    color-interpolation: linearRGB;
+    vector-effect: non-scaling-stroke;
+}
